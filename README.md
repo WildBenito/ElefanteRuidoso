@@ -3,5 +3,5 @@ Trabajo de Análisis de sistemas lineales
 
 Integrantes:
 
-Monica Higuera
+Monica Higuera,
 Benito Hermosilla
